@@ -1,7 +1,6 @@
 # データサイエンス100本ノック（構造化データ加工編）
 
-SQLの練習用リポジトリ
-（From: https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess）
+SQLの練習用リポジトリ - From: https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess
 
 ## Overview
 - データサイエンス100本ノック（構造化データ加工編）を実践するための演習問題とデータ、および環境構築のためのスクリプト一式
